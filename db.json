@@ -1,76 +1,273 @@
-{
-    "equipos": [
-        {
-            "id": 1,
-            "nombre": "River Plate",
-            "estadio": "Estadio Monumental",
-            "fundacion": "1901-05-25",
-            "clasico_rival": "Boca Juniors",
-            "ultimo_titulo": "Liga Profesional 2023",
-            "cantidad_titulos": 71
-        },
-        {
-            "id": 2,
-            "nombre": "Boca Juniors",
-            "estadio": "La Bombonera",
-            "fundacion": "1905-04-03",
-            "clasico_rival": "River Plate",
-            "ultimo_titulo": "Copa Argentina 2021",
-            "cantidad_titulos": 74
-        },
-        {
-            "id": 3,
-            "nombre": "Racing Club",
-            "estadio": "Estadio Presidente Perón (El Cilindro)",
-            "fundacion": "1903-03-25",
-            "clasico_rival": "Independiente",
-            "ultimo_titulo": "Trofeo de Campeones 2022",
-            "cantidad_titulos": 38
-        },
-        {
-            "id": 4,
-            "nombre": "Independiente",
-            "estadio": "Estadio Libertadores de América",
-            "fundacion": "1905-08-04",
-            "clasico_rival": "Racing Club",
-            "ultimo_titulo": "Copa Sudamericana 2017",
-            "cantidad_titulos": 45
-        },
-        {
-            "id": 5,
-            "nombre": "San Lorenzo",
-            "estadio": "Estadio Pedro Bidegain (Nuevo Gasómetro)",
-            "fundacion": "1908-04-01",
-            "clasico_rival": "Huracán",
-            "ultimo_titulo": "Supercopa Argentina 2015",
-            "cantidad_titulos": 22
-        },
-        {
-            "id": 6,
-            "nombre": "Huracán",
-            "estadio": "Estadio Tomás Adolfo Ducó",
-            "fundacion": "1908-11-01",
-            "clasico_rival": "San Lorenzo",
-            "ultimo_titulo": "Supercopa Argentina 2014",
-            "cantidad_titulos": 13
-        },
-        {
-            "id": 7,
-            "nombre": "Estudiantes de La Plata",
-            "estadio": "Estadio Jorge Luis Hirschi",
-            "fundacion": "1905-08-04",
-            "clasico_rival": "Gimnasia LP",
-            "ultimo_titulo": "Copa Argentina 2023",
-            "cantidad_titulos": 15
-        },
-        {
-            "id": 8,
-            "nombre": "Gimnasia y Esgrima La Plata",
-            "estadio": "Estadio Juan Carmelo Zerillo",
-            "fundacion": "1887-06-03",
-            "clasico_rival": "Estudiantes LP",
-            "ultimo_titulo": "Ninguno",
-            "cantidad_titulos": 1
-        }
-    ]
-}
+{"equipos":
+[
+  {
+    "id": 1,
+    "nombre": "River Plate",
+    "estadio": "Estadio Monumental",
+    "fundacion": "1901-05-25",
+    "clasico_rival": "Boca Juniors",
+    "ultimo_titulo": "Liga Profesional 2023",
+    "cantidad_titulos": 71
+  },
+  {
+    "id": 2,
+    "nombre": "Boca Juniors",
+    "estadio": "La Bombonera",
+    "fundacion": "1905-04-03",
+    "clasico_rival": "River Plate",
+    "ultimo_titulo": "Copa Argentina 2021",
+    "cantidad_titulos": 74
+  },
+  {
+    "id": 3,
+    "nombre": "Racing Club",
+    "estadio": "Estadio Presidente Perón (El Cilindro)",
+    "fundacion": "1903-03-25",
+    "clasico_rival": "Independiente",
+    "ultimo_titulo": "Trofeo de Campeones 2022",
+    "cantidad_titulos": 38
+  },
+  {
+    "id": 4,
+    "nombre": "Independiente",
+    "estadio": "Estadio Libertadores de América",
+    "fundacion": "1905-08-04",
+    "clasico_rival": "Racing Club",
+    "ultimo_titulo": "Copa Sudamericana 2017",
+    "cantidad_titulos": 45
+  },
+  {
+    "id": 5,
+    "nombre": "San Lorenzo",
+    "estadio": "Estadio Pedro Bidegain (Nuevo Gasómetro)",
+    "fundacion": "1908-04-01",
+    "clasico_rival": "Huracán",
+    "ultimo_titulo": "Supercopa Argentina 2015",
+    "cantidad_titulos": 22
+  },
+  {
+    "id": 6,
+    "nombre": "Huracán",
+    "estadio": "Estadio Tomás Adolfo Ducó",
+    "fundacion": "1908-11-01",
+    "clasico_rival": "San Lorenzo",
+    "ultimo_titulo": "Supercopa Argentina 2014",
+    "cantidad_titulos": 13
+  },
+  {
+    "id": 7,
+    "nombre": "Estudiantes de La Plata",
+    "estadio": "Estadio Jorge Luis Hirschi",
+    "fundacion": "1905-08-04",
+    "clasico_rival": "Gimnasia LP",
+    "ultimo_titulo": "Copa Argentina 2023",
+    "cantidad_titulos": 15
+  },
+  {
+    "id": 8,
+    "nombre": "Gimnasia y Esgrima La Plata",
+    "estadio": "Estadio Juan Carmelo Zerillo",
+    "fundacion": "1887-06-03",
+    "clasico_rival": "Estudiantes LP",
+    "ultimo_titulo": "Ninguno (sin títulos nacionales)",
+    "cantidad_titulos": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Newell's Old Boys",
+    "estadio": "Estadio Marcelo Bielsa",
+    "fundacion": "1903-11-03",
+    "clasico_rival": "Rosario Central",
+    "ultimo_titulo": "Torneo Final 2013",
+    "cantidad_titulos": 7
+  },
+  {
+    "id": 10,
+    "nombre": "Rosario Central",
+    "estadio": "Estadio Gigante de Arroyito",
+    "fundacion": "1889-12-24",
+    "clasico_rival": "Newell's Old Boys",
+    "ultimo_titulo": "Copa de la Liga 2023",
+    "cantidad_titulos": 8
+  },
+  {
+    "id": 11,
+    "nombre": "Vélez Sarsfield",
+    "estadio": "Estadio José Amalfitani",
+    "fundacion": "1910-01-01",
+    "clasico_rival": "Ferro Carril Oeste",
+    "ultimo_titulo": "Supercopa Argentina 2013",
+    "cantidad_titulos": 16
+  },
+  {
+    "id": 12,
+    "nombre": "Argentinos Juniors",
+    "estadio": "Estadio Diego Armando Maradona",
+    "fundacion": "1904-08-15",
+    "clasico_rival": "All Boys",
+    "ultimo_titulo": "Liga 1985",
+    "cantidad_titulos": 6
+  },
+  {
+    "id": 13,
+    "nombre": "Banfield",
+    "estadio": "Estadio Florencio Sola",
+    "fundacion": "1896-01-21",
+    "clasico_rival": "Lanús",
+    "ultimo_titulo": "Torneo Apertura 2009",
+    "cantidad_titulos": 4
+  },
+  {
+    "id": 14,
+    "nombre": "Lanús",
+    "estadio": "Estadio Néstor Díaz Pérez (La Fortaleza)",
+    "fundacion": "1915-01-03",
+    "clasico_rival": "Banfield",
+    "ultimo_titulo": "Copa Sudamericana 2020",
+    "cantidad_titulos": 7
+  },
+  {
+    "id": 15,
+    "nombre": "Tigre",
+    "estadio": "Estadio José Dellagiovanna",
+    "fundacion": "1902-08-03",
+    "clasico_rival": "Platense",
+    "ultimo_titulo": "Copa de la Superliga 2019",
+    "cantidad_titulos": 2
+  },
+  {
+    "id": 16,
+    "nombre": "Platense",
+    "estadio": "Estadio Ciudad de Vicente López",
+    "fundacion": "1905-05-25",
+    "clasico_rival": "Tigre",
+    "ultimo_titulo": "Ninguno (sin títulos nacionales)",
+    "cantidad_titulos": 0
+  },
+  {
+    "id": 17,
+    "nombre": "Godoy Cruz",
+    "estadio": "Estadio Malvinas Argentinas (Mendoza)",
+    "fundacion": "1921-06-01",
+    "clasico_rival": "San Martín SJ",
+    "ultimo_titulo": "Ninguno",
+    "cantidad_titulos": 0
+  },
+  {
+    "id": 18,
+    "nombre": "Talleres de Córdoba",
+    "estadio": "Estadio Mario Alberto Kempes",
+    "fundacion": "1913-10-12",
+    "clasico_rival": "Belgrano",
+    "ultimo_titulo": "Copa Conmebol 1999",
+    "cantidad_titulos": 3
+  },
+  {
+    "id": 19,
+    "nombre": "Belgrano",
+    "estadio": "Estadio Julio César Villagra (El Gigante de Alberdi)",
+    "fundacion": "1905-03-19",
+    "clasico_rival": "Talleres",
+    "ultimo_titulo": "Primera Nacional 2022",
+    "cantidad_titulos": 2
+  },
+  {
+    "id": 20,
+    "nombre": "Instituto",
+    "estadio": "Estadio Juan Domingo Perón (Alta Córdoba)",
+    "fundacion": "1918-08-08",
+    "clasico_rival": "Talleres",
+    "ultimo_titulo": "Primera Nacional 2022 (ascenso)",
+    "cantidad_titulos": 1
+  },
+  {
+    "id": 21,
+    "nombre": "Colón",
+    "estadio": "Estadio Brigadier Estanislao López",
+    "fundacion": "1905-05-05",
+    "clasico_rival": "Unión",
+    "ultimo_titulo": "Copa de la Liga 2021",
+    "cantidad_titulos": 2
+  },
+  {
+    "id": 22,
+    "nombre": "Unión",
+    "estadio": "Estadio 15 de Abril",
+    "fundacion": "1907-04-15",
+    "clasico_rival": "Colón",
+    "ultimo_titulo": "Ninguno",
+    "cantidad_titulos": 0
+  },
+  {
+    "id": 23,
+    "nombre": "Atlético Tucumán",
+    "estadio": "Estadio Monumental José Fierro",
+    "fundacion": "1902-09-27",
+    "clasico_rival": "San Martín de Tucumán",
+    "ultimo_titulo": "Primera B Nacional 2008",
+    "cantidad_titulos": 2
+  },
+  {
+    "id": 24,
+    "nombre": "Barracas Central",
+    "estadio": "Estadio Claudio Chiqui Tapia",
+    "fundacion": "1904-04-05",
+    "clasico_rival": "Sacachispas",
+    "ultimo_titulo": "Primera Nacional 2021",
+    "cantidad_titulos": 1
+  },
+  {
+    "id": 25,
+    "nombre": "Sarmiento de Junín",
+    "estadio": "Estadio Eva Perón",
+    "fundacion": "1911-04-01",
+    "clasico_rival": "Ferro Carril Oeste",
+    "ultimo_titulo": "Primera Nacional 2020",
+    "cantidad_titulos": 1
+  },
+  {
+    "id": 26,
+    "nombre": "Defensa y Justicia",
+    "estadio": "Estadio Norberto Tomaghello",
+    "fundacion": "1935-03-20",
+    "clasico_rival": "Arsenal de Sarandí",
+    "ultimo_titulo": "Copa Sudamericana 2020",
+    "cantidad_titulos": 3
+  },
+  {
+    "id": 27,
+    "nombre": "Arsenal de Sarandí",
+    "estadio": "Estadio Julio Humberto Grondona",
+    "fundacion": "1957-01-11",
+    "clasico_rival": "Defensa y Justicia",
+    "ultimo_titulo": "Copa Argentina 2013",
+    "cantidad_titulos": 5
+  },
+  {
+    "id": 28,
+    "nombre": "Central Córdoba (SdE)",
+    "estadio": "Estadio Único Madre de Ciudades",
+    "fundacion": "1919-06-03",
+    "clasico_rival": "Güemes (SdE)",
+    "ultimo_titulo": "Primera Nacional 2019",
+    "cantidad_titulos": 1
+  },
+  {
+    "id": 29,
+    "nombre": "Independiente Rivadavia",
+    "estadio": "Estadio Bautista Gargantini",
+    "fundacion": "1913-01-24",
+    "clasico_rival": "Gimnasia de Mendoza",
+    "ultimo_titulo": "Primera Nacional 2023",
+    "cantidad_titulos": 1
+  },
+  {
+    "id": 30,
+    "nombre": "Almirante Brown",
+    "estadio": "Estadio Fragata Presidente Sarmiento",
+    "fundacion": "1922-01-17",
+    "clasico_rival": "Nueva Chicago",
+    "ultimo_titulo": "Primera Nacional 2023 (ascenso)",
+    "cantidad_titulos": 1
+  }
+]}
