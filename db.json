@@ -1,0 +1,76 @@
+{
+    "equipos": [
+        {
+            "id": 1,
+            "nombre": "River Plate",
+            "estadio": "Estadio Monumental",
+            "fundacion": "1901-05-25",
+            "clasico_rival": "Boca Juniors",
+            "ultimo_titulo": "Liga Profesional 2023",
+            "cantidad_titulos": 71
+        },
+        {
+            "id": 2,
+            "nombre": "Boca Juniors",
+            "estadio": "La Bombonera",
+            "fundacion": "1905-04-03",
+            "clasico_rival": "River Plate",
+            "ultimo_titulo": "Copa Argentina 2021",
+            "cantidad_titulos": 74
+        },
+        {
+            "id": 3,
+            "nombre": "Racing Club",
+            "estadio": "Estadio Presidente Perón (El Cilindro)",
+            "fundacion": "1903-03-25",
+            "clasico_rival": "Independiente",
+            "ultimo_titulo": "Trofeo de Campeones 2022",
+            "cantidad_titulos": 38
+        },
+        {
+            "id": 4,
+            "nombre": "Independiente",
+            "estadio": "Estadio Libertadores de América",
+            "fundacion": "1905-08-04",
+            "clasico_rival": "Racing Club",
+            "ultimo_titulo": "Copa Sudamericana 2017",
+            "cantidad_titulos": 45
+        },
+        {
+            "id": 5,
+            "nombre": "San Lorenzo",
+            "estadio": "Estadio Pedro Bidegain (Nuevo Gasómetro)",
+            "fundacion": "1908-04-01",
+            "clasico_rival": "Huracán",
+            "ultimo_titulo": "Supercopa Argentina 2015",
+            "cantidad_titulos": 22
+        },
+        {
+            "id": 6,
+            "nombre": "Huracán",
+            "estadio": "Estadio Tomás Adolfo Ducó",
+            "fundacion": "1908-11-01",
+            "clasico_rival": "San Lorenzo",
+            "ultimo_titulo": "Supercopa Argentina 2014",
+            "cantidad_titulos": 13
+        },
+        {
+            "id": 7,
+            "nombre": "Estudiantes de La Plata",
+            "estadio": "Estadio Jorge Luis Hirschi",
+            "fundacion": "1905-08-04",
+            "clasico_rival": "Gimnasia LP",
+            "ultimo_titulo": "Copa Argentina 2023",
+            "cantidad_titulos": 15
+        },
+        {
+            "id": 8,
+            "nombre": "Gimnasia y Esgrima La Plata",
+            "estadio": "Estadio Juan Carmelo Zerillo",
+            "fundacion": "1887-06-03",
+            "clasico_rival": "Estudiantes LP",
+            "ultimo_titulo": "Ninguno",
+            "cantidad_titulos": 1
+        }
+    ]
+}
