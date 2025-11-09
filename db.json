@@ -1,304 +1,214 @@
 {
-    "equipos": [
-        {
-            "id": 1,
-            "nombre": "River Plate",
-            "estadio": "Estadio Monumental",
-            "fundacion": "1901-05-25",
-            "clasico_rival": "Boca Juniors",
-            "ultimo_titulo": "Liga Profesional 2023",
-            "cantidad_titulos": 71,
-            "historia": "Fundado en La Boca y trasladado a Núñez, River es uno de los clubes más ganadores de América. Conocido por su cantera y estilo ofensivo, conquistó múltiples títulos locales e internacionales, incluyendo la Copa Libertadores."
-        },
-        {
-            "id": 2,
-            "nombre": "Boca Juniors",
-            "estadio": "La Bombonera",
-            "fundacion": "1905-04-03",
-            "clasico_rival": "River Plate",
-            "ultimo_titulo": "Copa Argentina 2021",
-            "cantidad_titulos": 74,
-            "historia": "Nacido en el barrio de La Boca, Boca Juniors es uno de los clubes más populares y exitosos del mundo. Su estadio, La Bombonera, es un ícono del fútbol. Ha ganado seis Copas Libertadores y múltiples torneos locales."
-        },
-        {
-            "id": 3,
-            "nombre": "Racing Club",
-            "estadio": "Estadio Presidente Perón (El Cilindro)",
-            "fundacion": "1903-03-25",
-            "clasico_rival": "Independiente",
-            "ultimo_titulo": "Trofeo de Campeones 2022",
-            "cantidad_titulos": 38,
-            "historia": "Apodado 'La Academia', Racing fue el primer gran multicampeón argentino. Ganó el primer Mundial de Clubes en 1967 y es reconocido por su enorme hinchada y su historia centenaria."
-        },
-        {
-            "id": 4,
-            "nombre": "Independiente",
-            "estadio": "Estadio Libertadores de América",
-            "fundacion": "1905-08-04",
-            "clasico_rival": "Racing Club",
-            "ultimo_titulo": "Copa Sudamericana 2017",
-            "cantidad_titulos": 45,
-            "historia": "Conocido como el 'Rey de Copas', Independiente es el club con más Copas Libertadores ganadas (7). Su historia está marcada por grandes hazañas internacionales y su prestigio en Avellaneda."
-        },
-        {
-            "id": 5,
-            "nombre": "San Lorenzo",
-            "estadio": "Estadio Pedro Bidegain (Nuevo Gasómetro)",
-            "fundacion": "1908-04-01",
-            "clasico_rival": "Huracán",
-            "ultimo_titulo": "Supercopa Argentina 2015",
-            "cantidad_titulos": 22,
-            "historia": "Club histórico del barrio de Boedo, San Lorenzo forma parte de los cinco grandes del fútbol argentino. En 2014 logró su primera Copa Libertadores y mantiene una fuerte identidad social."
-        },
-        {
-            "id": 6,
-            "nombre": "Huracán",
-            "estadio": "Estadio Tomás Adolfo Ducó",
-            "fundacion": "1908-11-01",
-            "clasico_rival": "San Lorenzo",
-            "ultimo_titulo": "Supercopa Argentina 2014",
-            "cantidad_titulos": 13,
-            "historia": "Apodado 'El Globo', Huracán tuvo su época dorada en los años 70 bajo la dirección de Menotti. Su estilo ofensivo y su hinchada fiel lo hacen un club de gran tradición."
-        },
-        {
-            "id": 7,
-            "nombre": "Estudiantes de La Plata",
-            "estadio": "Estadio Jorge Luis Hirschi",
-            "fundacion": "1905-08-04",
-            "clasico_rival": "Gimnasia LP",
-            "ultimo_titulo": "Copa Argentina 2023",
-            "cantidad_titulos": 15,
-            "historia": "Reconocido por su disciplina táctica y mentalidad ganadora, Estudiantes conquistó cuatro Copas Libertadores y una Intercontinental, marcando una era dorada en los años 60 y 70."
-        },
-        {
-            "id": 8,
-            "nombre": "Gimnasia y Esgrima La Plata",
-            "estadio": "Estadio Juan Carmelo Zerillo",
-            "fundacion": "1887-06-03",
-            "clasico_rival": "Estudiantes LP",
-            "ultimo_titulo": "Ninguno",
-            "cantidad_titulos": 1,
-            "historia": "Fundado en 1887, es uno de los clubes más antiguos de América. Su pasión e historia barrial lo convierten en un emblema platense, pese a no poseer títulos nacionales de Primera División."
-        },
-        {
-            "id": 9,
-            "nombre": "Newell's Old Boys",
-            "estadio": "Estadio Marcelo Bielsa",
-            "fundacion": "1903-11-03",
-            "clasico_rival": "Rosario Central",
-            "ultimo_titulo": "Torneo Final 2013",
-            "cantidad_titulos": 7,
-            "historia": "Cuna de grandes figuras como Bielsa y Messi, Newell’s se caracteriza por su cantera y su fútbol ofensivo. Es uno de los clubes más importantes del interior argentino."
-        },
-        {
-            "id": 10,
-            "nombre": "Rosario Central",
-            "estadio": "Estadio Gigante de Arroyito",
-            "fundacion": "1889-12-24",
-            "clasico_rival": "Newell's Old Boys",
-            "ultimo_titulo": "Copa de la Liga 2023",
-            "cantidad_titulos": 8,
-            "historia": "Fundado por ferroviarios, Rosario Central representa el corazón del fútbol del interior. Ganó la Copa Conmebol 1995 y tiene una de las hinchadas más apasionadas del país."
-        },
-        {
-            "id": 11,
-            "nombre": "Equipo 11",
-            "estadio": "Estadio Equipo 11",
-            "fundacion": "1961-01-01",
-            "clasico_rival": "Equipo 12",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 11 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 12,
-            "nombre": "Equipo 12",
-            "estadio": "Estadio Equipo 12",
-            "fundacion": "1962-01-01",
-            "clasico_rival": "Equipo 13",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 12 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 13,
-            "nombre": "Equipo 13",
-            "estadio": "Estadio Equipo 13",
-            "fundacion": "1963-01-01",
-            "clasico_rival": "Equipo 14",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 13 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 14,
-            "nombre": "Equipo 14",
-            "estadio": "Estadio Equipo 14",
-            "fundacion": "1964-01-01",
-            "clasico_rival": "Equipo 15",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 14 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 15,
-            "nombre": "Equipo 15",
-            "estadio": "Estadio Equipo 15",
-            "fundacion": "1965-01-01",
-            "clasico_rival": "Equipo 16",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 1,
-            "historia": "El Equipo 15 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 16,
-            "nombre": "Equipo 16",
-            "estadio": "Estadio Equipo 16",
-            "fundacion": "1966-01-01",
-            "clasico_rival": "Equipo 17",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 16 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 17,
-            "nombre": "Equipo 17",
-            "estadio": "Estadio Equipo 17",
-            "fundacion": "1967-01-01",
-            "clasico_rival": "Equipo 18",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 17 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 18,
-            "nombre": "Equipo 18",
-            "estadio": "Estadio Equipo 18",
-            "fundacion": "1968-01-01",
-            "clasico_rival": "Equipo 19",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 18 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 19,
-            "nombre": "Equipo 19",
-            "estadio": "Estadio Equipo 19",
-            "fundacion": "1969-01-01",
-            "clasico_rival": "Equipo 20",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 19 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 20,
-            "nombre": "Equipo 20",
-            "estadio": "Estadio Equipo 20",
-            "fundacion": "1970-01-01",
-            "clasico_rival": "Equipo 21",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 1,
-            "historia": "El Equipo 20 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 21,
-            "nombre": "Equipo 21",
-            "estadio": "Estadio Equipo 21",
-            "fundacion": "1971-01-01",
-            "clasico_rival": "Equipo 22",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 21 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 22,
-            "nombre": "Equipo 22",
-            "estadio": "Estadio Equipo 22",
-            "fundacion": "1972-01-01",
-            "clasico_rival": "Equipo 23",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 22 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 23,
-            "nombre": "Equipo 23",
-            "estadio": "Estadio Equipo 23",
-            "fundacion": "1973-01-01",
-            "clasico_rival": "Equipo 24",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 23 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 24,
-            "nombre": "Equipo 24",
-            "estadio": "Estadio Equipo 24",
-            "fundacion": "1974-01-01",
-            "clasico_rival": "Equipo 25",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 24 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 25,
-            "nombre": "Equipo 25",
-            "estadio": "Estadio Equipo 25",
-            "fundacion": "1975-01-01",
-            "clasico_rival": "Equipo 26",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 1,
-            "historia": "El Equipo 25 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 26,
-            "nombre": "Equipo 26",
-            "estadio": "Estadio Equipo 26",
-            "fundacion": "1976-01-01",
-            "clasico_rival": "Equipo 27",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 26 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 27,
-            "nombre": "Equipo 27",
-            "estadio": "Estadio Equipo 27",
-            "fundacion": "1977-01-01",
-            "clasico_rival": "Equipo 28",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 27 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 28,
-            "nombre": "Equipo 28",
-            "estadio": "Estadio Equipo 28",
-            "fundacion": "1978-01-01",
-            "clasico_rival": "Equipo 29",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 28 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 29,
-            "nombre": "Equipo 29",
-            "estadio": "Estadio Equipo 29",
-            "fundacion": "1979-01-01",
-            "clasico_rival": "Equipo 30",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 29 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        },
-        {
-            "id": 30,
-            "nombre": "Equipo 30",
-            "estadio": "Estadio Equipo 30",
-            "fundacion": "1980-01-01",
-            "clasico_rival": "Equipo 1",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 1,
-            "historia": "El Equipo 30 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
-        }
-    ]
+  "equipos": [
+    {
+      "id": 1,
+      "nombre": "River Plate",
+      "estadio": "Estadio Monumental",
+      "fundacion": "1901-05-25",
+      "historia": "Fundado en La Boca y trasladado a Núñez, River es uno de los clubes más ganadores de América..."
+    },
+    {
+      "id": 2,
+      "nombre": "Boca Juniors",
+      "estadio": "La Bombonera",
+      "fundacion": "1905-04-03",
+      "historia": "Nacido en el barrio de La Boca, Boca Juniors es uno de los clubes más populares y exitosos del mundo..."
+    },
+    {
+      "id": 3,
+      "nombre": "Racing Club",
+      "estadio": "Estadio Presidente Perón (El Cilindro)",
+      "fundacion": "1903-03-25",
+      "historia": "Apodado 'La Academia', Racing fue el primer gran multicampeón argentino..."
+    },
+    {
+      "id": 4,
+      "nombre": "Independiente",
+      "estadio": "Estadio Libertadores de América",
+      "fundacion": "1905-08-04",
+      "historia": "Conocido como el 'Rey de Copas', Independiente es el club con más Copas Libertadores ganadas (7)..."
+    },
+    {
+      "id": 5,
+      "nombre": "San Lorenzo",
+      "estadio": "Estadio Pedro Bidegain (Nuevo Gasómetro)",
+      "fundacion": "1908-04-01",
+      "historia": "Club histórico del barrio de Boedo, San Lorenzo forma parte de los cinco grandes..."
+    },
+    {
+      "id": 6,
+      "nombre": "Huracán",
+      "estadio": "Estadio Tomás Adolfo Ducó",
+      "fundacion": "1908-11-01",
+      "historia": "Apodado 'El Globo', Huracán tuvo su época dorada en los años 70 bajo la dirección de Menotti..."
+    },
+    {
+      "id": 7,
+      "nombre": "Estudiantes de La Plata",
+      "estadio": "Estadio Jorge Luis Hirschi",
+      "fundacion": "1905-08-04",
+      "historia": "Reconocido por su disciplina táctica y mentalidad ganadora, Estudiantes conquistó cuatro Copas Libertadores..."
+    },
+    {
+      "id": 8,
+      "nombre": "Gimnasia y Esgrima La Plata",
+      "estadio": "Estadio Juan Carmelo Zerillo",
+      "fundacion": "1887-06-03",
+      "historia": "Fundado en 1887, es uno de los clubes más antiguos de América..."
+    },
+    {
+      "id": 9,
+      "nombre": "Newell's Old Boys",
+      "estadio": "Estadio Marcelo Bielsa",
+      "fundacion": "1903-11-03",
+      "historia": "Cuna de grandes figuras como Bielsa y Messi, Newell’s se caracteriza por su cantera..."
+    },
+    {
+      "id": 10,
+      "nombre": "Rosario Central",
+      "estadio": "Estadio Gigante de Arroyito",
+      "fundacion": "1889-12-24",
+      "historia": "Fundado por ferroviarios, Rosario Central representa el corazón del fútbol del interior..."
+    },
+    {
+      "id": 11,
+      "nombre": "Aldosivi",
+      "estadio": "Estadio José María Minella",
+      "fundacion": "1913-03-29",
+      "historia": "Club de la ciudad de Mar del Plata, conocido como 'El Tiburón'..."
+    },
+    {
+      "id": 12,
+      "nombre": "Argentinos Juniors",
+      "estadio": "Estadio Diego Armando Maradona",
+      "fundacion": "1904-08-15",
+      "historia": "Conocido como 'El Semillero del Mundo' por formar jugadores como Maradona, Riquelme y Redondo..."
+    },
+    {
+      "id": 13,
+      "nombre": "Atletico Tucuman",
+      "estadio": "Estadio Monumental José Fierro",
+      "fundacion": "1902-09-27",
+      "historia": "El 'Decano', uno de los clubes más grandes del norte argentino..."
+    },
+    {
+      "id": 14,
+      "nombre": "Banfield",
+      "estadio": "Estadio Florencio Sola",
+      "fundacion": "1896-01-21",
+      "historia": "El 'Taladro', campeón del fútbol argentino en 2009..."
+    },
+    {
+      "id": 15,
+      "nombre": "Barracas Central",
+      "estadio": "Estadio Claudio 'Chiqui' Tapia",
+      "fundacion": "1904-04-05",
+      "historia": "Club del barrio de Barracas, con un reciente ascenso a la primera división..."
+    },
+    {
+      "id": 16,
+      "nombre": "Belgrano",
+      "estadio": "Estadio Julio César Villagra",
+      "fundacion": "1905-03-19",
+      "historia": "El 'Pirata' cordobés, conocido por su gran convocatoria y su histórico ascenso contra River..."
+    },
+    {
+      "id": 17,
+      "nombre": "Central Cordoba",
+      "estadio": "Estadio Único Madre de Ciudades",
+      "fundacion": "1919-06-03",
+      "historia": "El 'Ferroviario' de Santiago del Estero, afianzado en la primera división..."
+    },
+    {
+      "id": 18,
+      "nombre": "Defensa y Justicia",
+      "estadio": "Estadio Norberto Tomaghello",
+      "fundacion": "1935-03-20",
+      "historia": "El 'Halcón' de Varela, de gran crecimiento reciente, campeón de la Copa Sudamericana 2020..."
+    },
+    {
+      "id": 19,
+      "nombre": "Godoy Cruz",
+      "estadio": "Estadio Malvinas Argentinas",
+      "fundacion": "1921-06-01",
+      "historia": "El 'Tomba', el club más importante de la región de Cuyo..."
+    },
+    {
+      "id": 20,
+      "nombre": "Independiente Rivadavia",
+      "estadio": "Estadio Bautista Gargantini",
+      "fundacion": "1913-01-24",
+      "historia": "La 'Lepra' mendocina, club de gran popularidad en la provincia..."
+    },
+    {
+      "id": 21,
+      "nombre": "Instituto",
+      "estadio": "Estadio Juan Domingo Perón (Monumental de Alta Córdoba)",
+      "fundacion": "1918-08-08",
+      "historia": "La 'Gloria' cordobesa, reconocido por su gran cantera de jugadores..."
+    },
+    {
+      "id": 22,
+      "nombre": "Lanus",
+      "estadio": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+      "fundacion": "1915-01-03",
+      "historia": "El 'Granate', club modelo del sur de Buenos Aires, campeón de la Sudamericana 2013..."
+    },
+    {
+      "id": 23,
+      "nombre": "Platense",
+      "estadio": "Estadio Ciudad de Vicente López",
+      "fundacion": "1905-05-25",
+      "historia": "El 'Calamar', histórico club de Saavedra y Vicente López..."
+    },
+    {
+      "id": 24,
+      "nombre": "Riestra",
+      "estadio": "Estadio Guillermo Laza",
+      "fundacion": "1931-02-22",
+      "historia": "Club de Bajo Flores con un meteórico ascenso a la máxima categoría..."
+    },
+    {
+      "id": 25,
+      "nombre": "San Martin",
+      "estadio": "Estadio Ingeniero Hilario Sánchez",
+      "fundacion": "1907-09-27",
+      "historia": "El 'Verdinegro', club popular de la provincia de San Juan..."
+    },
+    {
+      "id": 26,
+      "nombre": "Sarmiento",
+      "estadio": "Estadio Eva Perón",
+      "fundacion": "1911-04-01",
+      "historia": "El 'Verde' de Junín, representante de la ciudad en primera división..."
+    },
+    {
+      "id": 27,
+      "nombre": "Talleres",
+      "estadio": "Estadio Mario Alberto Kempes",
+      "fundacion": "1913-10-12",
+      "historia": "La 'T', uno de los clubes más convocantes de Córdoba y el interior del país..."
+    },
+    {
+      "id": 28,
+      "nombre": "Tigre",
+      "estadio": "Estadio José Dellagiovanna",
+      "fundacion": "1902-08-03",
+      "historia": "El 'Matador' de Victoria, campeón de la Copa de la Superliga 2019..."
+    },
+    {
+      "id": 29,
+      "nombre": "Union",
+      "estadio": "Estadio 15 de Abril",
+      "fundacion": "1907-04-15",
+      "historia": "El 'Tatengue', club de gran arraigo en la ciudad de Santa Fe..."
+    },
+    {
+      "id": 30,
+      "nombre": "Velez",
+      "estadio": "Estadio José Amalfitani",
+      "fundacion": "1910-01-01",
+      "historia": "El 'Fortín' de Liniers, campeón del mundo en 1994 y club de gran historia..."
+    }
+  ]
 }
