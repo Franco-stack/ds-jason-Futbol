@@ -102,13 +102,13 @@
         },
         {
             "id": 11,
-            "nombre": "Equipo 11",
+            "nombre": "Aldosivi",
             "estadio": "Estadio Equipo 11",
             "fundacion": "1961-01-01",
             "clasico_rival": "Equipo 12",
             "ultimo_titulo": "Sin títulos recientes",
             "cantidad_titulos": 2,
-            "historia": "El Equipo 11 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "historia": "El Aldosivi ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
         },
         {
             "id": 12,
