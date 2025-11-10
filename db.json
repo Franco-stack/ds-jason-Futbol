@@ -112,13 +112,13 @@
         },
         {
             "id": 12,
-            "nombre": "Equipo 12",
+            "nombre": "Argentinos Juniors",
             "estadio": "Estadio Equipo 12",
             "fundacion": "1962-01-01",
             "clasico_rival": "Equipo 13",
             "ultimo_titulo": "Sin títulos recientes",
             "cantidad_titulos": 3,
-            "historia": "El Equipo 12 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "historia": "El Argentinos Juniors ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
         },
         {
             "id": 13,
