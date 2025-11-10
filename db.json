@@ -76,9 +76,9 @@
             "estadio": "Estadio Juan Carmelo Zerillo",
             "fundacion": "1887-06-03",
             "clasico_rival": "Estudiantes LP",
-            "ultimo_titulo": "Ninguno",
+            "ultimo_titulo": "Copa Centenario 1994",
             "cantidad_titulos": 1,
-            "historia": "Fundado en 1887, es uno de los clubes más antiguos de América. Su pasión e historia barrial lo convierten en un emblema platense, pese a no poseer títulos nacionales de Primera División."
+            "historia": "Fundado en 1887, es uno de los clubes más antiguos de América. Conocido como 'El Lobo', es un emblema platense con una de las hinchadas más pasionales del país."
         },
         {
             "id": 9,
@@ -87,8 +87,8 @@
             "fundacion": "1903-11-03",
             "clasico_rival": "Rosario Central",
             "ultimo_titulo": "Torneo Final 2013",
-            "cantidad_titulos": 7,
-            "historia": "Cuna de grandes figuras como Bielsa y Messi, Newell’s se caracteriza por su cantera y su fútbol ofensivo. Es uno de los clubes más importantes del interior argentino."
+            "cantidad_titulos": 9,
+            "historia": "Cuna de grandes figuras como Bielsa y Messi, Newell’s se caracteriza por su cantera y su fútbol ofensivo. Es uno de los clubes más importantes del interior argentino, con fuerte identidad rosarina."
         },
         {
             "id": 10,
@@ -97,208 +97,208 @@
             "fundacion": "1889-12-24",
             "clasico_rival": "Newell's Old Boys",
             "ultimo_titulo": "Copa de la Liga 2023",
-            "cantidad_titulos": 8,
-            "historia": "Fundado por ferroviarios, Rosario Central representa el corazón del fútbol del interior. Ganó la Copa Conmebol 1995 y tiene una de las hinchadas más apasionadas del país."
+            "cantidad_titulos": 11,
+            "historia": "Fundado por ferroviarios, Rosario Central representa el corazón del fútbol del interior. Ganó la Copa Conmebol 1995 y tiene una de las hinchadas más apasionadas del país, protagonista del Clásico Rosarino."
         },
         {
             "id": 11,
             "nombre": "Aldosivi",
-            "estadio": "Estadio Equipo 11",
-            "fundacion": "1961-01-01",
-            "clasico_rival": "Equipo 12",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Aldosivi ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "estadio": "Estadio José María Minella",
+            "fundacion": "1913-03-29",
+            "clasico_rival": "Alvarado",
+            "ultimo_titulo": "Primera Nacional 2017-18",
+            "cantidad_titulos": 1,
+            "historia": "Club de Mar del Plata, conocido como 'El Tiburón'. Su historia reciente está marcada por sus ascensos a Primera División, siendo un referente del fútbol de la costa atlántica."
         },
         {
             "id": 12,
             "nombre": "Argentinos Juniors",
-            "estadio": "Estadio Equipo 12",
-            "fundacion": "1962-01-01",
-            "clasico_rival": "Equipo 13",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Argentinos Juniors ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "estadio": "Estadio Diego Armando Maradona",
+            "fundacion": "1904-08-15",
+            "clasico_rival": "All Boys",
+            "ultimo_titulo": "Copa Argentina 2024",
+            "cantidad_titulos": 5,
+            "historia": "Conocido como 'El Semillero del Mundo' por haber formado a figuras como Maradona y Riquelme. Ganó la Copa Libertadores 1985 y tiene una fuerte identidad ligada al barrio de La Paternal."
         },
         {
             "id": 13,
-            "nombre": "Equipo 13",
-            "estadio": "Estadio Equipo 13",
-            "fundacion": "1963-01-01",
-            "clasico_rival": "Equipo 14",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 13 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Atlético Tucumán",
+            "estadio": "Estadio Monumental José Fierro",
+            "fundacion": "1902-09-27",
+            "clasico_rival": "San Martín (T)",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 14,
+            "historia": "El club más popular de Tucumán, conocido como 'El Decano'. Su historia reciente se destaca por su participación en copas internacionales, representando al norte argentino."
         },
         {
             "id": 14,
-            "nombre": "Equipo 14",
-            "estadio": "Estadio Equipo 14",
-            "fundacion": "1964-01-01",
-            "clasico_rival": "Equipo 15",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 14 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Banfield",
+            "estadio": "Estadio Florencio Sola",
+            "fundacion": "1896-01-21",
+            "clasico_rival": "Lanús",
+            "ultimo_titulo": "Copa de la Liga Profesional 2020",
+            "cantidad_titulos": 3,
+            "historia": "Apodado 'El Taladro', es un club histórico del sur del Gran Buenos Aires. Conquistó el Torneo Apertura 2009, su primer título de Primera División."
         },
         {
             "id": 15,
-            "nombre": "Equipo 15",
-            "estadio": "Estadio Equipo 15",
-            "fundacion": "1965-01-01",
-            "clasico_rival": "Equipo 16",
-            "ultimo_titulo": "Sin títulos recientes",
+            "nombre": "Barracas Central",
+            "estadio": "Estadio Claudio 'Chiqui' Tapia",
+            "fundacion": "1904-02-05",
+            "clasico_rival": "Excursionistas",
+            "ultimo_titulo": "Ninguno en Primera División",
             "cantidad_titulos": 1,
-            "historia": "El Equipo 15 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "historia": "Club del barrio de Barracas, con una historia reciente marcada por ascensos a Primera. Su estadio lleva el nombre del presidente de la AFA, Claudio 'Chiqui' Tapia."
         },
         {
             "id": 16,
-            "nombre": "Equipo 16",
-            "estadio": "Estadio Equipo 16",
-            "fundacion": "1966-01-01",
-            "clasico_rival": "Equipo 17",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 16 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Belgrano",
+            "estadio": "Estadio Julio César Villagra (El Gigante de Alberdi)",
+            "fundacion": "1905-03-19",
+            "clasico_rival": "Talleres",
+            "ultimo_titulo": "Primera Nacional 2022",
+            "cantidad_titulos": 12,
+            "historia": "Uno de los clubes más importantes de Córdoba, conocido como 'El Pirata'. Famoso por su ascenso en 2011 tras vencer a River Plate en la Promoción."
         },
         {
             "id": 17,
-            "nombre": "Equipo 17",
-            "estadio": "Estadio Equipo 17",
-            "fundacion": "1967-01-01",
-            "clasico_rival": "Equipo 18",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 17 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Central Córdoba (SdE)",
+            "estadio": "Estadio Alfredo Terrera",
+            "fundacion": "1919-06-03",
+            "clasico_rival": "Mitre (SdE)",
+            "ultimo_titulo": "Copa Argentina 2020",
+            "cantidad_titulos": 1,
+            "historia": "Club de Santiago del Estero, apodado 'El Ferroviario'. Se ha consolidado en Primera División en los últimos años, representando el fútbol del interior."
         },
         {
             "id": 18,
-            "nombre": "Equipo 18",
-            "estadio": "Estadio Equipo 18",
-            "fundacion": "1968-01-01",
-            "clasico_rival": "Equipo 19",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 18 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Defensa y Justicia",
+            "estadio": "Estadio Norberto Tomaghello",
+            "fundacion": "1935-03-20",
+            "clasico_rival": "Arsenal de Sarandí",
+            "ultimo_titulo": "Recopa Sudamericana 2021",
+            "cantidad_titulos": 2,
+            "historia": "Un club de ascenso meteórico, conocido como 'El Halcón'. Logró ganar la Copa Sudamericana 2020 y la Recopa Sudamericana 2021, destacándose por su estilo de juego ofensivo."
         },
         {
             "id": 19,
-            "nombre": "Equipo 19",
-            "estadio": "Estadio Equipo 19",
-            "fundacion": "1969-01-01",
-            "clasico_rival": "Equipo 20",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 19 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Godoy Cruz",
+            "estadio": "Estadio Malvinas Argentinas",
+            "fundacion": "1921-06-01",
+            "clasico_rival": "Gimnasia y Esgrima (M)",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 8,
+            "historia": "El club más representativo de Mendoza, apodado 'El Tomba'. Se destacó en el siglo XXI por sus participaciones en la Copa Libertadores y su solidez en la élite."
         },
         {
             "id": 20,
-            "nombre": "Equipo 20",
-            "estadio": "Estadio Equipo 20",
-            "fundacion": "1970-01-01",
-            "clasico_rival": "Equipo 21",
-            "ultimo_titulo": "Sin títulos recientes",
+            "nombre": "Independiente Rivadavia",
+            "estadio": "Estadio Bautista Gargantini",
+            "fundacion": "1913-01-24",
+            "clasico_rival": "Gimnasia y Esgrima (M)",
+            "ultimo_titulo": "Primera Nacional 2023",
             "cantidad_titulos": 1,
-            "historia": "El Equipo 20 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "historia": "Club de Mendoza, conocido como 'La Lepra mendocina'. Histórico del fútbol de ascenso, logró su retorno a Primera División en 2023."
         },
         {
             "id": 21,
-            "nombre": "Equipo 21",
-            "estadio": "Estadio Equipo 21",
-            "fundacion": "1971-01-01",
-            "clasico_rival": "Equipo 22",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 21 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Instituto",
+            "estadio": "Estadio Presidente Perón",
+            "fundacion": "1918-08-08",
+            "clasico_rival": "Belgrano",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 3,
+            "historia": "Otro club importante de Córdoba, apodado 'La Gloria'. Es conocido por haber formado a jugadores como Kempes, Dybala y Milito, con una gran tradición de cantera."
         },
         {
             "id": 22,
-            "nombre": "Equipo 22",
-            "estadio": "Estadio Equipo 22",
-            "fundacion": "1972-01-01",
-            "clasico_rival": "Equipo 23",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 22 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Lanús",
+            "estadio": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+            "fundacion": "1915-01-03",
+            "clasico_rival": "Banfield",
+            "ultimo_titulo": "Copa Bicentenario 2016",
+            "cantidad_titulos": 6,
+            "historia": "Apodado 'El Granate', es un club moderno y consolidado. Ganó el Torneo Apertura 2007 y el Campeonato de Primera División 2016, destacándose en copas internacionales."
         },
         {
             "id": 23,
-            "nombre": "Equipo 23",
-            "estadio": "Estadio Equipo 23",
-            "fundacion": "1973-01-01",
-            "clasico_rival": "Equipo 24",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 23 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Platense",
+            "estadio": "Estadio Ciudad de Vicente López",
+            "fundacion": "1905-05-25",
+            "clasico_rival": "Atlanta",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 1,
+            "historia": "Conocido como 'El Calamar', es un club con tradición de barrio y una fiel hinchada. Regresó a Primera en los últimos años, con una fuerte identidad en Vicente López."
         },
         {
             "id": 24,
-            "nombre": "Equipo 24",
-            "estadio": "Estadio Equipo 24",
-            "fundacion": "1974-01-01",
-            "clasico_rival": "Equipo 25",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 24 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Deportivo Riestra",
+            "estadio": "Estadio Guillermo Laza",
+            "fundacion": "1931-02-22",
+            "clasico_rival": "Sacachispas",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 0,
+            "historia": "Club de la zona sur de la Ciudad de Buenos Aires. Su historia reciente es de ascensos sucesivos, logrando llegar a la máxima categoría del fútbol argentino."
         },
         {
             "id": 25,
-            "nombre": "Equipo 25",
-            "estadio": "Estadio Equipo 25",
-            "fundacion": "1975-01-01",
-            "clasico_rival": "Equipo 26",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 1,
-            "historia": "El Equipo 25 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "San Martín (T)",
+            "estadio": "Estadio La Ciudadela",
+            "fundacion": "1909-11-02",
+            "clasico_rival": "Atlético Tucumán",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 10,
+            "historia": "Club histórico de Tucumán, conocido como 'El Santo'. Su clásico rival es Atlético Tucumán, y su estadio es uno de los más emblemáticos del interior."
         },
         {
             "id": 26,
-            "nombre": "Equipo 26",
-            "estadio": "Estadio Equipo 26",
-            "fundacion": "1976-01-01",
-            "clasico_rival": "Equipo 27",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 2,
-            "historia": "El Equipo 26 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Sarmiento",
+            "estadio": "Estadio Eva Perón",
+            "fundacion": "1911-04-01",
+            "clasico_rival": "Jorge Newbery (Junín)",
+            "ultimo_titulo": "Copa Argentina 2021",
+            "cantidad_titulos": 4,
+            "historia": "Club de Junín, Provincia de Buenos Aires, conocido como 'El Verde'. Representa al fútbol del interior de la provincia, con un fuerte arraigo en su ciudad."
         },
         {
             "id": 27,
-            "nombre": "Equipo 27",
-            "estadio": "Estadio Equipo 27",
-            "fundacion": "1977-01-01",
-            "clasico_rival": "Equipo 28",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 3,
-            "historia": "El Equipo 27 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Talleres",
+            "estadio": "Estadio Mario Alberto Kempes",
+            "fundacion": "1913-10-12",
+            "clasico_rival": "Belgrano",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 11,
+            "historia": "Uno de los grandes de Córdoba, apodado 'La T'. Ganó la Copa Conmebol 1999. Famoso por su gran convocatoria y por protagonizar el Clásico Cordobés."
         },
         {
             "id": 28,
-            "nombre": "Equipo 28",
-            "estadio": "Estadio Equipo 28",
-            "fundacion": "1978-01-01",
-            "clasico_rival": "Equipo 29",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 4,
-            "historia": "El Equipo 28 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Tigre",
+            "estadio": "Estadio José Dellagiovanna (El Coliseo de Victoria)",
+            "fundacion": "1902-08-03",
+            "clasico_rival": "Platense",
+            "ultimo_titulo": "Copa de la Superliga 2019",
+            "cantidad_titulos": 1,
+            "historia": "Club del norte del Gran Buenos Aires, conocido como 'El Matador'. Su único título de Primera División lo obtuvo en 2019, destacándose en el plano nacional."
         },
         {
             "id": 29,
-            "nombre": "Equipo 29",
-            "estadio": "Estadio Equipo 29",
-            "fundacion": "1979-01-01",
-            "clasico_rival": "Equipo 30",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 5,
-            "historia": "El Equipo 29 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Unión",
+            "estadio": "Estadio 15 de Abril",
+            "fundacion": "1907-04-15",
+            "clasico_rival": "Colón",
+            "ultimo_titulo": "Ninguno en Primera División",
+            "cantidad_titulos": 2,
+            "historia": "Club histórico de Santa Fe, conocido como 'El Tatengue'. Protagonista del Clásico Santafesino, con una fuerte presencia en el fútbol de la costa."
         },
         {
             "id": 30,
-            "nombre": "Equipo 30",
-            "estadio": "Estadio Equipo 30",
-            "fundacion": "1980-01-01",
-            "clasico_rival": "Equipo 1",
-            "ultimo_titulo": "Sin títulos recientes",
-            "cantidad_titulos": 1,
-            "historia": "El Equipo 30 ha sido protagonista en su región, con una historia marcada por pasión y esfuerzo. Representa a su ciudad con orgullo en el fútbol argentino."
+            "nombre": "Vélez Sarsfield",
+            "estadio": "Estadio José Amalfitani (El Fortín)",
+            "fundacion": "1910-01-01",
+            "clasico_rival": "Ferro Carril Oeste",
+            "ultimo_titulo": "Supercopa Argentina 2014",
+            "cantidad_titulos": 16,
+            "historia": "Club de Liniers, conocido como 'El Fortín'. Tuvo una época dorada en los 90, ganando la Copa Libertadores e Intercontinental en 1994, siendo uno de los más exitosos del país."
         }
     ]
 }
